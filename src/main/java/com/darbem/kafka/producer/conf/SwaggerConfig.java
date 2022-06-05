@@ -28,6 +28,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
 	  public GroupedOpenApi publicApi() {
 	      return GroupedOpenApi.builder()
 	              .group("pagamento-public")
+	              .packagesToScan("com.darbem.kafka.producer.controller")
 	              .pathsToMatch("/pagamento/**")
 	              .build();
 	  }

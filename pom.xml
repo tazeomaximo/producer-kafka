@@ -48,29 +48,12 @@
 			<optional>true</optional>
 		</dependency>
 
-		<!-- <dependency> -->
-		<!-- <groupId>io.springfox</groupId> -->
-		<!-- <artifactId>springfox-swagger2</artifactId> -->
-		<!-- <version>${io.springfox.version}</version> -->
-		<!-- </dependency> -->
-
-		<!-- <dependency> -->
-		<!-- <groupId>io.springfox</groupId> -->
-		<!-- <artifactId>springfox-swagger-ui</artifactId> -->
-		<!-- <version>${io.springfox.version}</version> -->
-		<!-- </dependency> -->
-
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-ui</artifactId>
 			<version>1.6.9</version>
 		</dependency>
 		
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.springdoc</groupId> -->
-<!-- 			<artifactId>springdoc-openapi-webmvc-core</artifactId> -->
-<!-- 			<version>1.6.9</version> -->
-<!-- 		</dependency> -->
 	</dependencies>
 
 	<build>
