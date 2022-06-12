@@ -2,8 +2,8 @@
 
 ### Demo Producer Kafka com SpringDoc
 
-* [http://localhost:8080/pgto-producer/swagger-ui/index.html](Acessar a aplicação)
-* [https://springdoc.org/#demos] (SpringDoc)
+* [Acessar a aplicação](http://localhost:8080/pgto-producer/swagger-ui/index.html)
+* [SpringDoc] (https://springdoc.org/#demos)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
